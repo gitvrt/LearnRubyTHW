@@ -1,0 +1,1 @@
+puts "Pound (#) character is used to comment in ruby" #this is comment
