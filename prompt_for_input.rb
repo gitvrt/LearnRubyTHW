@@ -1,5 +1,5 @@
 print "Please enter your name : "
-name = gets.chomp
+name = gets.chomp #chomp will remove \n character at the end of string
 
 print "\nHai #{name}..!\nWhere are you from : "
 place = gets.chomp
