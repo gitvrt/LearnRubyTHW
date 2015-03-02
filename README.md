@@ -1,2 +1,2 @@
 # LearnRubyTHW
-This repository contains my ruby learnings from learnrubythehardway.org
+This repository contains my ruby learnings from <a href="http://learnrubythehardway.org/">learnrubythehardway.org</a>
