@@ -6,7 +6,7 @@
 
  file_content.close #closing the file
 
- print "Enter another filename : "
+ print "Enter another filename to read : "
  another_file = open($stdin.gets.chomp)
 
  puts another_file.read
