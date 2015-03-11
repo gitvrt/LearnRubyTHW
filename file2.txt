@@ -1,0 +1,2 @@
+Hello again..!
+This is an another sample file for reading, through a program written in ruby
